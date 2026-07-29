@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class Conexion {
     private static final String URL = "jdbc:mysql://localhost:3306/sga_db?serverTimezone=UTC";
     private static final String USER = "root"; // Tu usuario de MySQL
-    private static final String PASSWORD = "12345678"; // Tu contraseña de MySQL
+    private static final String PASSWORD = "wiwi"; // Tu contraseña de MySQL
 
     public static Connection getConexion() {
         Connection cn = null;
