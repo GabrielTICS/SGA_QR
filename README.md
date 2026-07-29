@@ -35,4 +35,4 @@ Para desplegar y ejecutar el proyecto en un entorno de desarrollo local, siga la
    ```bash
    mvn clean install
    ```
-5. Ejecutar la clase principal `FrmLogin` En la terminal (Solo para mac) para iniciar la aplicacion.
+5. Ejecutar la clase principal `FrmLogin` En la terminal para tener autorización de la camara para iniciar la aplicacion.
